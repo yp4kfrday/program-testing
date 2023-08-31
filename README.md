@@ -10,7 +10,7 @@
 
 Шаг 3: Появится предложение ввести конечную дату в формате "d.m.y". Введите корректную дату (например, "01.01.2018") и нажмите ENTER.
 
-| First Header  | Second Header | First Header  | Second Header | First Header  | Second Header | First Header  | Second Header |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Идентификатор  | Описание | Шаги  | Входные данные | Ожидаемые результаты  | Фактические результаты | Статус  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| TU01  | Позитивный сценарий: корректные начальная и конечная даты  | 1. Запустить программу. 2. Ввести начальную дату: 01.01.2010. 3. Ввести конечную дату: 01.01.2015.| Начальная дата: 01.01.2010 Конечная дата: 01.01.2015  | Программа выводит "2010-03-31 17:21:22.802".  | Программа выводит "2010-03-31 17:21:22.802".  | Пройден  |
+| TU02  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
