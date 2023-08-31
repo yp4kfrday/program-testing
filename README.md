@@ -11,6 +11,6 @@
 Шаг 3: Появится предложение ввести конечную дату в формате "d.m.y". Введите корректную дату (например, "01.01.2018") и нажмите ENTER.
 
  ID  | Заголовок | Предусловия  | Окружение | Постусловия | Шаги  | Ожидаемый результат  | Статус | Фактический результат |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  |  Content Cell  | Content Cell  | Content Cell  |  Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |  Content Cell  | Content Cell  | Content Cell  |  Content Cell  | Content Cell  | Content Cell  |
